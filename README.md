@@ -6,6 +6,11 @@ SME (as in same)
 ## motivation
 - i thought it would be cool to have a thing with ur friends/family where u can know ur thinking of each other at the same time no matter the location in a physical thing. not just test.
 
+## what is it? / how does it work
+- you will have one and another person will have one
+- when u press the button on each of ur own projects, a sound will play!
+- using adafruit api
+
 ##  assembly instructions
 - purchase all the things detailed in the BOM.csv file in this repository
 - then print out the case and the pcb
