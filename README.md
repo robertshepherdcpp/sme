@@ -1,4 +1,4 @@
-SME
+SME (as in same)
 
 ## motivation
 - i thought it would be cool to have a thing with ur friends/family where u can know ur thinking of each other at the same time no matter the location in a physical thing. not just test.
