@@ -1,0 +1,15 @@
+Name,Description,Cost,Link
+ESP32, xiao-esp32-c6,$14.23,https://www.aliexpress.com/item/1005012024967822.html?spm=a2g0o.productlist.main.7.1c0dQE0BQE0BB6&algo_pvid=d6abd62f-d3d0-4d24-8e67-c36f9ee4fee6&algo_exp_id=d6abd62f-d3d0-4d24-8e67-c36f9ee4fee6-6&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2114.23%2114.23%21%21%2196.00%2196.00%21%40210385db17820099617632666e09e0%2112000057315331197%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Af52ab060%3Bm03_new_user%3A-29895&curPageLogUid=0NnIQWkHGtYe&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005012024967822%7C_p_origin_prod%3A
+MCP23017, gpio expander,$x,x
+LEDs,-,x,x
+capacitor,0603 10UF 10V,$1.24,https://www.aliexpress.com/item/1005007137284660.html?spm=a2g0o.productlist.main.4.59553947xCtRSz&aem_p4p_detail=202606201951452680357436791320001809371&algo_pvid=a4932ca8-0d70-4ccc-bb4f-d0909116ee2f&algo_exp_id=a4932ca8-0d70-4ccc-bb4f-d0909116ee2f-3&pdp_ext_f=%7B%22order%22%3A%22243%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.24%210.99%21%21%218.40%216.72%21%40211b61bb17820103050654706e11c3%2112000039535543114%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Af52ab060%3Bm03_new_user%3A-29895&curPageLogUid=fC5GFTwT6j5r&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007137284660%7C_p_origin_prod%3A&search_p4p_id=202606201951452680357436791320001809371_1
+capacitor,0603 100NF 50V,$0.80,https://www.aliexpress.com/item/1005007137284660.html?spm=a2g0o.productlist.main.4.59553947xCtRSz&aem_p4p_detail=202606201951452680357436791320001809371&algo_pvid=a4932ca8-0d70-4ccc-bb4f-d0909116ee2f&algo_exp_id=a4932ca8-0d70-4ccc-bb4f-d0909116ee2f-3&pdp_ext_f=%7B%22order%22%3A%22243%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.24%210.99%21%21%218.40%216.72%21%40211b61bb17820103050654706e11c3%2112000039535543114%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Af52ab060%3Bm03_new_user%3A-29895&curPageLogUid=fC5GFTwT6j5r&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007137284660%7C_p_origin_prod%3A&search_p4p_id=202606201951452680357436791320001809371_1
+resistor,,,
+resistor,,,
+resistor,,,
+resistor,,,
+sd card receptable,,,
+cherry mx switch,,,
+key caps,
+pcb fabrication,,,
+shipping,,,
