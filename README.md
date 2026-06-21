@@ -1,5 +1,8 @@
 SME (as in same)
 
+<img width="653" height="928" alt="image" src="https://github.com/user-attachments/assets/3c1bad1e-35be-41f6-8772-1ff5dbb35309" />
+
+
 ## motivation
 - i thought it would be cool to have a thing with ur friends/family where u can know ur thinking of each other at the same time no matter the location in a physical thing. not just test.
 
